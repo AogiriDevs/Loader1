@@ -6,5 +6,5 @@ MAX_PY = 3.9
 CONF_PATH = "config.env"
 
 # will be removed after pluggable utils and res
-CORE_REPO = environ.get('CORE_REPO', "https://github.com/AogiriDevs/Loader1")
-CORE_BRANCH = environ.get('CORE_BRANCH', "master")
+CORE_REPO = environ.get('CORE_REPO', "https://github.com/UsergeTeam/Loader")
+CORE_BRANCH = environ.get('CORE_BRANCH', "beta")
